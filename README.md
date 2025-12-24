@@ -1,5 +1,5 @@
 <h1 align="center">
-  ⚡️ Hi, I'm Shri Harshini ⚡️
+  ✨ Hi, I'm Shri Harshini ✨ 
 </h1>
 
 <h3 align="center">
