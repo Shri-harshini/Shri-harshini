@@ -5,7 +5,7 @@
 <h3 align="center">
   💻 Web Developer | 🤖 AI & Data Science Student  
   <br/>
-  🌌 Code. Create. Conquer.
+  Learn. Build. Break. Fix. Repeat.
 </h3>
 
 
