@@ -104,16 +104,16 @@
   <a href="https://www.linkedin.com/in/shri-harshini-s-5526282a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.codechef.com/users/balaramanm">
+  <a href="https://share.google/aK7s1IZYFtfGHd8y2">
     <img src="https://img.shields.io/badge/CodeChef-784B25?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://codeforces.com/profile/BalaramanM">
+  <a href="https://codeforces.com/profile/Shri_Harshini">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Shriharshini_2005/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/kit27aikqq">
+  <a href="https://www.geeksforgeeks.org/profile/shriharsceno">
     <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
