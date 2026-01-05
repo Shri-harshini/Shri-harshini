@@ -8,7 +8,7 @@
   Learn. Build. Break. Fix. Repeat.
 </h3>
 
-
+> About
 
  🎓 **Pre-Final Year B.Tech AI & Data Science Student**
  🏫 **Kalaignar Karunanidhi Institute of Technology, Coimbatore**
