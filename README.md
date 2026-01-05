@@ -45,7 +45,6 @@
   </li>
 </ul>
 
----
 
 > Internship Experience
 
