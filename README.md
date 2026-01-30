@@ -65,11 +65,6 @@ Learn. Build. Break. Fix. Repeat.
 - **Codeforces** Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**  
 - **CodeChef** Max Rating: **1414** | ⭐⭐ (2 Star) Highest Rank: **1414** (Starters 210D, Div 3)
 
-> 📈 Coding Platform Stats (CodeChef)
-<p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=shriharshini&theme=dark" height="220"/>
-</p>
-
 > Certifications
 - 🐍 Infosys Springboard – Python Programming (Achiever)
 - ☁ Juniper – Cloud & Mist AI
@@ -111,4 +106,3 @@ Learn. Build. Break. Fix. Repeat.
 “Consistency turns small commits into big achievements.” 🔁 ⭐  
 
 Thanks for visiting my GitHub profile 🚀
-
