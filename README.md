@@ -1,6 +1,5 @@
-<h1 align="center">Shri Harshini</h1>
 <p align="center">
-B.Tech AI & Data Science | Web Developer | AI & ML Enthusiast
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=007ACC&center=true&width=600&lines=Shri+Harshini;B.Tech+AI+%26+Data+Science+Student;Web+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ---
