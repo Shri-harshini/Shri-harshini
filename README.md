@@ -66,12 +66,12 @@ B.Tech AI & Data Science | Web Developer | AI & ML Enthusiast
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri-harshini&show_icons=true&theme=dark&hide_title=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-harshini&theme=dark&hide_title=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shri-harshini&show_icons=true&count_private=true&theme=dark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-harshini&theme=dark" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-harshini&theme=dark&layout=compact" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-harshini&layout=compact&theme=dark" width="49%"/>
 </p>
 
 ---
@@ -98,3 +98,4 @@ B.Tech AI & Data Science | Web Developer | AI & ML Enthusiast
 
 **Email:** shriharshini03@gmail.com  
 **LinkedIn:** [Shri Harshini](https://www.linkedin.com/in/shri-harshini-s-5526282a5)  
+
