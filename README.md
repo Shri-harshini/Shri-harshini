@@ -1,108 +1,100 @@
-<h1 align="center"> Hi, I'm Shri Harshini </h1>
-
-<h3 align="center">
-💻 Web Developer | 🤖 AI & Data Science Student <br/>
-Learn. Build. Break. Fix. Repeat.
-</h3>
-
-> About  
-🎓 **Pre-Final Year B.Tech AI & Data Science Student**  
-🏫 **Kalaignar Karunanidhi Institute of Technology, Coimbatore**  
-📊 **CGPA:** 7.64 / 10  
-🌱 Currently learning **DSA, Python, Java, Web Development & ML**  
-💡 Interested in **Competitive Programming, AI & Real-World Projects**
-
-> Projects
-<ul>
-  <li>
-    <b>Child Vaccination Reminder System (ML)</b><br/>
-    Developed an ML-based system to track birth details and automatically schedule upcoming vaccination dates using predictive analysis.
-  </li>
-
-  <li>
-    <b>AI-Based Loan Eligibility Checker</b><br/>
-    Built a web application using OCR, data preprocessing, and ML models to analyze bank statements and predict loan eligibility securely.
-  </li>
-
-  <li>
-    <b>Excel Automation with Python</b><br/>
-    Automated Excel operations using <b>pandas, openpyxl, xlsxwriter & win32com</b> without opening Excel files.
-  </li>
-
-  <li>
-    <b>Web Scraping with Python</b><br/>
-    Extracted and cleaned structured data using <b>BeautifulSoup</b> and <b>Selenium</b> for analysis and reporting.
-  </li>
-
-  <li>
-    <b>Text to Image Generator</b><br/>
-    Created a generative AI application using <b>Stable Diffusion</b> and <b>Gradio</b> to convert text prompts into images.
-  </li>
-
-  <li><b>Resume-Screening-Skill-Matching-System</b></li>
-  <li><b>AI-Travel-Planner</b></li>
-  <li><b>Autonomous-Research-Assistant</b></li>
-</ul>
-
-> Internship Experience
-- **Gateway Manfree Technologies Pvt. Ltd** – Coimbatore (Dec 2024)  
-  ▸ Worked on ML-based healthcare automation projects  
-  ▸ Designed secure data storage and predictive ML models  
-
-- **Appin Technologies Pvt. Ltd** – Coimbatore (June 2025)  
-  ▸ Developed AI-powered financial web applications  
-  ▸ Built end-to-end backend logic with Python and ML models  
-
-> Achievements
-- 🏅 Participated in **TCS CodeVita – Season 1**
-- 🥇 Earned **Contest Contender Gold Badge** on CodeChef
-- 💡 Presented an idea at **Hack Karnataka (Devfolio – Google)**
-- 🌐 Built a **Health Monitoring Website** using blood test reports
-- ⚡ Participated in **CodeSmash – 24 Hour Hackathon**
-
-> Competitive Programming
-- **LeetCode** Max Rating: **1415** | Problems Solved: **300+** | Top **78.08%** | Knight Badge  
-- **Codeforces** Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**  
-- **CodeChef** Max Rating: **1414** | ⭐⭐ (2 Star) Highest Rank: **1414** (Starters 210D, Div 3)
-
-> Certifications
-- 🐍 Infosys Springboard – Python Programming (Achiever)
-- ☁ Juniper – Cloud & Mist AI
-- 🔐 Cisco – Networking Essentials & Cybersecurity
-- 🎓 NPTEL – Soft Skills
-- 🤖 Simplilearn – Generative AI
-
-> Volunteering
-- 📸 Active Member – **Photography Club**
-- 🧠 Member – **ISTE**
-- 🤝 Assisted in technical events, documentation, and peer learning
-- 🗂 Supported project execution and collaborative problem solving
-
-> Connect With Me
+<h1 align="center">Shri Harshini</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shri-harshini-s-5526282a5">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://share.google/aK7s1IZYFtfGHd8y2">
-    <img src="https://img.shields.io/badge/CodeChef-784B25?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://codeforces.com/profile/Shri_Harshini">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Shriharshini_2005/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/shriharsceno">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-00C853?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+B.Tech AI & Data Science | Web Developer | AI & ML Enthusiast
 </p>
 
-> 🛠 Languages & Tools
+---
+
+## About Me
+- Pre-final year B.Tech student at **Kalaignar Karunanidhi Institute of Technology, Coimbatore**  
+- Passionate about **AI, Machine Learning, Web Development**, and **Competitive Programming**  
+- Experienced in building **real-world projects using AI/ML and Web technologies**  
+- CGPA: **7.64 / 10**  
+
+---
+
+## Skills & Technologies
+
+**Programming Languages:** Python, Java, JavaScript, C, C++  
+**Web & Backend:** HTML, CSS, React, Node.js  
+**Data & ML:** SQL, Pandas, NumPy, Scikit-Learn, TensorFlow  
+**Tools & Platforms:** Git, GitHub, VS Code, Docker, Stable Diffusion  
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| Child Vaccination Reminder System | ML-based system to schedule and track child vaccinations | Python, ML, Pandas |
+| AI-Based Loan Eligibility Checker | Web app to analyze bank statements and predict loan eligibility | Python, OCR, ML, Flask |
+| Excel Automation Scripts | Automated Excel operations without opening Excel files | Python, Pandas, openpyxl |
+| Text to Image Generator | Converts text prompts to images using generative AI | Python, Stable Diffusion, Gradio |
+| Resume-Screening-Skill-Matching-System | Automated resume screening and skill matching | Python, NLP, ML |
+| AI-Travel-Planner | AI-powered travel planner with custom recommendations | Python, Flask, AI |
+| Autonomous-Research-Assistant | Automates literature review and summarization | Python, NLP, ML |
+
+---
+
+## Internship Experience
+
+- **Gateway Manfree Technologies Pvt. Ltd, Coimbatore** – ML-based healthcare automation projects (Dec 2024)  
+- **Appin Technologies Pvt. Ltd, Coimbatore** – Developed AI-powered financial web applications with backend ML logic (June 2025)  
+
+---
+
+## Achievements
+
+- TCS CodeVita – Season 1 Participant  
+- Contest Contender Gold Badge – CodeChef  
+- Idea Presentation at Hack Karnataka (Devfolio – Google)  
+- Built Health Monitoring Website using blood test reports  
+- Participated in CodeSmash – 24 Hour Hackathon  
+
+---
+
+## Competitive Programming
+
+| Platform | Max Rating | Problems Solved |
+|----------|------------|----------------|
+| LeetCode | 1415+ | 300+ |
+| CodeChef | 1414 (2 Star) | 300+ |
+| Codeforces | 945 Intermediate | 300+ |
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mysql,git,github&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shri-harshini&show_icons=true&theme=dark&hide_title=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-harshini&theme=dark&hide_title=true" width="49%"/>
 </p>
 
-✨ Quote of the Day ✨  
-“Consistency turns small commits into big achievements.” 🔁 ⭐  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-harshini&theme=dark&layout=compact" width="49%"/>
+</p>
 
-Thanks for visiting my GitHub profile 🚀
+---
+
+## Certifications
+
+- Python Programming – Infosys Springboard  
+- Cloud & Mist AI – Juniper  
+- Networking & Cybersecurity – Cisco  
+- Soft Skills – NPTEL  
+- Generative AI – Simplilearn  
+
+---
+
+## Volunteering
+
+- Photography Club – Active Member  
+- ISTE – Member  
+- Assisted in technical events, documentation, and peer learning  
+
+---
+
+## Contact
+
+**Email:** shriharshini03@gmail.com  
+**LinkedIn:** [Shri Harshini](https://www.linkedin.com/in/shri-harshini-s-5526282a5)  
