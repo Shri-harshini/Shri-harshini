@@ -1,4 +1,4 @@
- <h1 align="center"> Hi, I'm Shri Harshini </h1>
+<h1 align="center"> Hi, I'm Shri Harshini </h1>
 
 <h3 align="center">
 💻 Web Developer | 🤖 AI & Data Science Student <br/>
@@ -72,6 +72,10 @@ Learn. Build. Break. Fix. Repeat.
 
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shri_Harshini&theme=dark" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api?username=shriharshini&theme=dark" height="200"/>
 </p>
 
 > Certifications
