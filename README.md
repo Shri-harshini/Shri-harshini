@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=500&color=007ACC&center=true&width=600&lines=Shri+Harshini;B.Tech+AI+%26+Data+Science+Student;Web+Developer+%7C+AI+%26+ML+Enthusiast" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/Shri%20Harshini-B.Tech%20AI%20%26%20DS-blue?style=for-the-badge&logo=github" alt="Name Badge"/>
+  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20AI%20%26%20ML-Professional-orange?style=for-the-badge&logo=visual-studio-code" alt="Role Badge"/>
 </p>
 
 ---
@@ -82,3 +83,5 @@
 
 **Email:** shriharshini03@gmail.com  
 **LinkedIn:** [Shri Harshini](https://www.linkedin.com/in/shri-harshini-s-5526282a5)  
+
+  
