@@ -65,17 +65,9 @@ Learn. Build. Break. Fix. Repeat.
 - **Codeforces** Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**  
 - **CodeChef** Max Rating: **1414** | ⭐⭐ (2 Star) Highest Rank: **1414** (Starters 210D, Div 3)
 
-> 📈 Coding Platform Stats
+> 📈 Coding Platform Stats (CodeChef)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Shriharshini_2005?theme=dark&font=Karma&ext=heatmap" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shri_Harshini&theme=dark" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://codechef-readme-stats.vercel.app/api?username=shriharshini&theme=dark" height="200"/>
+  <img src="https://codechef-readme-stats.vercel.app/api?username=shriharshini&theme=dark" height="220"/>
 </p>
 
 > Certifications
