@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Shri%20Harshini-B.Tech%20AI%20%26%20DS-blue?style=for-the-badge&logo=github" alt="Name Badge"/>
-  <img src="https://img.shields.io/badge/Web%20Developer%20%7C%20AI%20%26%20ML-Professional-orange?style=for-the-badge&logo=visual-studio-code" alt="Role Badge"/>
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Typing Animation" width="600"/>
 </p>
 
 ---
@@ -55,7 +54,7 @@
 
 ## Competitive Programming Ratings
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1415-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shriharshini_2005/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-1415-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshini_1020) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-1414-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Shri_Harshini) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-945-lightblue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shri_Harshini)
 
@@ -83,5 +82,3 @@
 
 **Email:** shriharshini03@gmail.com  
 **LinkedIn:** [Shri Harshini](https://www.linkedin.com/in/shri-harshini-s-5526282a5)  
-
-  
