@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Shri Harshini </h1>
+ <h1 align="center"> Hi, I'm Shri Harshini </h1>
 
 <h3 align="center">
 💻 Web Developer | 🤖 AI & Data Science Student <br/>
@@ -64,6 +64,15 @@ Learn. Build. Break. Fix. Repeat.
 - **LeetCode** Max Rating: **1415** | Problems Solved: **300+** | Top **78.08%** | Knight Badge  
 - **Codeforces** Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**  
 - **CodeChef** Max Rating: **1414** | ⭐⭐ (2 Star) Highest Rank: **1414** (Starters 210D, Div 3)
+
+> 📈 Coding Platform Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shriharshini_2005?theme=dark&font=Karma&ext=heatmap" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shri_Harshini&theme=dark" height="200"/>
+</p>
 
 > Certifications
 - 🐍 Infosys Springboard – Python Programming (Achiever)
