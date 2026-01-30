@@ -53,26 +53,11 @@ B.Tech AI & Data Science | Web Developer | AI & ML Enthusiast
 
 ---
 
-## Competitive Programming
+## Competitive Programming Ratings
 
-| Platform | Max Rating | Problems Solved |
-|----------|------------|----------------|
-| LeetCode | 1415+ | 300+ |
-| CodeChef | 1414 (2 Star) | 300+ |
-| Codeforces | 945 Intermediate | 300+ |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri-harshini&show_icons=true&theme=dark" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shri-harshini&theme=dark" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-harshini&layout=compact&theme=dark" width="49%"/>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-1415-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shriharshini_2005/) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-1414-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Shri_Harshini) 
+[![Codeforces](https://img.shields.io/badge/Codeforces-945-lightblue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shri_Harshini)
 
 ---
 
