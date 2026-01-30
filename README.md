@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" alt="Typing Animation" width="600"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=007ACC&center=true&width=400&lines=Shri+Harshini" alt="Typing Animation"/>
 </p>
 
 ---
