@@ -1,23 +1,18 @@
-<h1 align="center">
-   Hi, I'm Shri Harshini 
-</h1>
+<h1 align="center"> Hi, I'm Shri Harshini </h1>
 
 <h3 align="center">
-  💻 Web Developer | 🤖 AI & Data Science Student  
-  <br/>
-  Learn. Build. Break. Fix. Repeat.
+💻 Web Developer | 🤖 AI & Data Science Student <br/>
+Learn. Build. Break. Fix. Repeat.
 </h3>
 
-> About
-
- 🎓 **Pre-Final Year B.Tech AI & Data Science Student**
- 🏫 **Kalaignar Karunanidhi Institute of Technology, Coimbatore**
- 📊 **CGPA:** 7.64 / 10
- 🌱 Currently learning **DSA, Python, Java, Web Development & ML**
- 💡 Interested in **Competitive Programming, AI & Real-World Projects**
+> About  
+🎓 **Pre-Final Year B.Tech AI & Data Science Student**  
+🏫 **Kalaignar Karunanidhi Institute of Technology, Coimbatore**  
+📊 **CGPA:** 7.64 / 10  
+🌱 Currently learning **DSA, Python, Java, Web Development & ML**  
+💡 Interested in **Competitive Programming, AI & Real-World Projects**
 
 > Projects
-
 <ul>
   <li>
     <b>Child Vaccination Reminder System (ML)</b><br/>
@@ -43,11 +38,13 @@
     <b>Text to Image Generator</b><br/>
     Created a generative AI application using <b>Stable Diffusion</b> and <b>Gradio</b> to convert text prompts into images.
   </li>
+
+  <li><b>Resume-Screening-Skill-Matching-System</b></li>
+  <li><b>AI-Travel-Planner</b></li>
+  <li><b>Autonomous-Research-Assistant</b></li>
 </ul>
 
-
 > Internship Experience
-
 - **Gateway Manfree Technologies Pvt. Ltd** – Coimbatore (Dec 2024)  
   ▸ Worked on ML-based healthcare automation projects  
   ▸ Designed secure data storage and predictive ML models  
@@ -56,49 +53,32 @@
   ▸ Developed AI-powered financial web applications  
   ▸ Built end-to-end backend logic with Python and ML models  
 
-
-
 > Achievements
-
 - 🏅 Participated in **TCS CodeVita – Season 1**
 - 🥇 Earned **Contest Contender Gold Badge** on CodeChef
 - 💡 Presented an idea at **Hack Karnataka (Devfolio – Google)**
 - 🌐 Built a **Health Monitoring Website** using blood test reports
 - ⚡ Participated in **CodeSmash – 24 Hour Hackathon**
 
-
 > Competitive Programming
-
-- **LeetCode**  
-  Max Rating: **1415** | Problems Solved: **300+** | Top **78.08%** | Knight Badge
-
-- **Codeforces**  
-  Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**
-
-- **CodeChef**  
-  Max Rating: **1414** | ⭐⭐ (2 Star)  
-  Highest Rank: **1414** (Starters 210D, Div 3)
-
+- **LeetCode** Max Rating: **1415** | Problems Solved: **300+** | Top **78.08%** | Knight Badge  
+- **Codeforces** Max Rating: **945** | Level: Intermediate | Problems Solved: **300+**  
+- **CodeChef** Max Rating: **1414** | ⭐⭐ (2 Star) Highest Rank: **1414** (Starters 210D, Div 3)
 
 > Certifications
-
 - 🐍 Infosys Springboard – Python Programming (Achiever)
 - ☁ Juniper – Cloud & Mist AI
 - 🔐 Cisco – Networking Essentials & Cybersecurity
 - 🎓 NPTEL – Soft Skills
 - 🤖 Simplilearn – Generative AI
 
-
 > Volunteering
-
 - 📸 Active Member – **Photography Club**
 - 🧠 Member – **ISTE**
 - 🤝 Assisted in technical events, documentation, and peer learning
 - 🗂 Supported project execution and collaborative problem solving
 
-
- > Connect With Me
-
+> Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/shri-harshini-s-5526282a5">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -117,20 +97,13 @@
   </a>
 </p>
 
-
-
 > 🛠 Languages & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,react,nodejs,mysql,git,github&theme=dark" />
 </p>
 
+✨ Quote of the Day ✨  
+“Consistency turns small commits into big achievements.” 🔁 ⭐  
 
-
- ✨ Quote of the Day ✨
-
-“Consistency turns small commits into big achievements.” 🔁
-
-
-⭐ Thanks for visiting my GitHub profile
+Thanks for visiting my GitHub profile 🚀
 
