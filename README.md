@@ -55,7 +55,7 @@
 ## Competitive Programming Ratings
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1415-orange?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshini_1020) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-1414-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Shri_Harshini) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-1414-blue?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shri_1006) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-945-lightblue?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shri_Harshini)
 
 ---
