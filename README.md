@@ -8,7 +8,7 @@
 - Pre-final year B.Tech student at **Kalaignar Karunanidhi Institute of Technology, Coimbatore**  
 - Passionate about **AI, Machine Learning, Web Development**, and **Competitive Programming**  
 - Experienced in building **real-world projects using AI/ML and Web technologies**  
-- CGPA: **7.64 / 10**  
+- CGPA: **8.39 / 10**  
 
 ---
 
